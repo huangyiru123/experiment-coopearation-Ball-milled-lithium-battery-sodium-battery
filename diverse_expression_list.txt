@@ -1,0 +1,8 @@
+GP_0: sub(sub(X7, X49), X49)
+Used Variables: [7, 49]
+Y-Correlation: -0.318
+
+GP_86: sub(X7, X49)
+Used Variables: [7, 49]
+Y-Correlation: -0.302
+
